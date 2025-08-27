@@ -1,4 +1,4 @@
-http://KenTopDeveloper.github.io           My website
+My website: https://KenTopDeveloper.github.io
 <!--
 **KenTopDeveloper/KenTopDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
